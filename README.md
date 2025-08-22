@@ -23,6 +23,13 @@ Average DTI: 13.33%
 Import Libraries
 Load Data
 Data Cleaning – Handle missing values
-Metric Calculations – Total applications, funded amounts, received amounts, etc.
+Metric Calculations – Total applications,
+funded amounts, received amounts, etc.
 Loan Status Analysis – Good vs. bad loans
 Visualization – Monthly trends and other plots
+### 🛠️ Tools Used
+Python
+Pandas – Data manipulation and analysis
+NumPy – Numerical operations
+Matplotlib & Seaborn – Data visualization
+Plotly Express – Interactive visualizations
